@@ -1,4 +1,4 @@
-let score = 70;
+let score = 60;
 
 if (score >= 70) {
     console.log("Excellent");
