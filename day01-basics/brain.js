@@ -5,4 +5,4 @@ let birthYear = 2002;
 let age = year - birthYear;
 
 console.log("Hello " + name);
-console.log("You are " + age " years old");
+console.log("You are " + age + " years old");
