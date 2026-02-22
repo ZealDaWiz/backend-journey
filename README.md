@@ -1,9 +1,11 @@
 # Backend Engineering Journey 🚀
 
-This repository documents my daily progress learning Backend Development using Node.js.
+This repository documents my daily backend development progress.
 
-I am committing code every day as proof of growth and consistency.
+## Structure
+
+day01-basics → Running JavaScript in terminal  
+day02-conditions → If/Else logic  
+day03-loops → Loop fundamentals  
 
 Goal: Become a professional backend engineer in 6 months.
-
-Day 1 — Running JavaScript in terminal
