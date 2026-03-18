@@ -1,8 +1,9 @@
-let age = 21;
+let age = 17;
 
-if  (age >= 18) {
-     console.log("You cam enter");
+if (age >= 18) {
+    console.log("You can enter");
 } else {
-    console.log("You are underaged");
+  console.log("You are underaged");
 }
+
 
