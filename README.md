@@ -4,8 +4,9 @@ This repository documents my daily backend development progress.
 
 ## Structure
 
-day01-basics → Running JavaScript in terminal  
-day02-conditions → If/Else logic  
-day03-loops → Loop fundamentals  
+## Day 01: Basics → Running JavaScript in terminal  
+## Day 02: Conditions → If/Else logic  
+## Day 03: Loops → Loop fundamentals  
+## Day 04: Gap-fill and Mastered user input grade system
 
 Goal: Become a professional backend engineer in 6 months.
