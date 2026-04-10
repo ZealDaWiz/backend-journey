@@ -5,7 +5,7 @@ console.log(cities[0]);
 console.log(cities[2]);
 console.log(cities[3]);
 
-console.log(cities.length)
+console.log(cities[cities.length - 1]);
 
 // =====TASK 2 - MODIFIED ARRAY =====
 let names = ["Nonye","Grace","Nelly","Hero"];
