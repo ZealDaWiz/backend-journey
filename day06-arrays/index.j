@@ -1,0 +1,12 @@
+// ===== TASK 1 - CREATE AND ACCESS ARRAYS =====
+let cities = ["Lagos","Abuja","Ibadan","Delta"];
+
+console.log(cities[0]);
+console.log(cities[2]);
+console.log(cities[3]);
+console.log(cities.length);
+
+// =====TASK 2 - MODIFIED ARRAY =====
+let names = ["Nonye","Grace","Nelly","Hero"];
+student[1] = "Lekan"
+comsole.log(names);
