@@ -17,13 +17,13 @@ This repository serves as a technical log of my transition from Biological Quali
 
 ### 🏗️ Module 1: Foundational Logic
 * **Concepts:** Conditions, Loops, & Function Composition.
-* **Key Project:** [Grade System Program](./day04-gap-fill) - A user-input driven validation tool.
+* **Key Project:** [Grade System Program](./Module-1-Foundational-Logic/day04-gap-fill) - A user-input driven validation tool.
 * **Status:** Verified.
 
 ### 🧪 Module 2: Data Structures & Composition
 * **Concepts:** Arrays & Objects.
-* **Key Project:** [Hospital Management System](./day07-objects) - A complex object-oriented structure for managing healthcare data.
-* **Key Project:** [Class Report Function](./day06-arrays) - Implementing the "Holy Trinity" (Array + Loop + Function).
+* **Key Project:** [Hospital Management System](./Module-2-Data-Structures/day07-objects) - A complex object-oriented structure for managing healthcare data.
+* **Key Project:** [Class Report Function](./Module-2-Data-Structures/day06-arrays) - Implementing the "Holy Trinity" (Array + Loop + Function).
 * **Status:** Verified.
 
 ---
