@@ -28,7 +28,7 @@ Freelance-ready by July 2026. Full dev mode by September 2026.
 |-----|-------|--------|
 | Day 06 | Arrays, array methods, classReport | ✅ |
 | Day 07 | Objects, methods, hospital system | ✅ |
-| Day 08 | Array methods — map, filter, forEach | ⏳ |
+| Day 08 | Array methods — map, filter, forEach | ✅ |
 
 ### Module 3 — Core JavaScript
 | Day | Topic | Status |
