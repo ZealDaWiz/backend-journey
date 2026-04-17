@@ -32,8 +32,8 @@ Freelance-ready by July 2026. Full dev mode by September 2026.
 
 ### Module 3 — Core JavaScript
 | Day | Topic | Status |
-|-----|-------|--------| ✅ |
-| Day 09 | While loops, break, continue | |
+|-----|-------|--------|
+| Day 09 | While loops, break, continue | ✅ |
 | Day 10 | Scope & closures | ⏳ |
 | Day 11 | Higher order functions | ⏳ |
 | Day 12 | Error handling — try/catch | ⏳ |
