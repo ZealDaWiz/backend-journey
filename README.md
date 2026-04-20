@@ -35,7 +35,7 @@ Freelance-ready by July 2026. Full dev mode by September 2026.
 |-----|-------|--------|
 | Day 09 | While loops, break, continue | ✅ |
 | Day 10 | Scope & closures | ✅ |
-| Day 11 | Higher order functions | ⏳ |
+| Day 11 | Higher order functions | ✅ |
 | Day 12 | Error handling — try/catch | ⏳ |
 | Day 13 | ES6+ features | ⏳ |
 | Day 14 | Month 1 CLI mini project | ⏳ |
