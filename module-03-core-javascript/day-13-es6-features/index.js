@@ -7,14 +7,14 @@ function add(a, b) {
 
 console.log(add(5, 3));
 
-// ===== ARROW FUNVTION - VERSION 1 =====
+// ===== ARROW FUNCTION - VERSION 1 =====
 const addition = (a, b) => {
      return a + b;
 }
 
 console.log(addition(6, 2));
 
-// ===== ARROW FUNVTION - VERSION 2 =====
+// ===== ARROW FUNCTION - VERSION 2 =====
 const plus = (a, b) => a + b;
 
 console.log(plus(4,6));

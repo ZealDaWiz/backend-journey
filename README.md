@@ -58,6 +58,22 @@ Concepts: Functions, parameters, conditionals, && operator.
 Finds highest, lowest and average score from any array.  
 Concepts: Loops, accumulation, functions.
 
+### 🎓 Student Grade Tracker
+Closure-based system that evaluates student scores, prints pass/fail status and tracks total pass count privately.
+Concepts: Closures, forEach, conditionals, objects.
+
+### 💊 Pharmacy Stock Report
+Filters out of stock medicines and transforms remaining stock into readable reports using method chaining.
+Concepts: Higher order functions, filter, map, chaining, closures.
+
+### 🏪 Medicine Dispensing System
+Validates and dispenses medicines with full error handling — blocks unknown medicines, enforces stock levels and prescription requirements.
+Concepts: Error handling, try/catch, throw, filter, objects.
+
+### 🏨 Patient Registration System
+Registers patients using ES6 features — combines two patient arrays and processes each registration automatically.
+Concepts: Arrow functions, destructuring, spread operator, default parameters, forEach.
+
 ## 📱 Built entirely on mobile
 No laptop. No IDE. Just Termux, nano and Node.js on Android.  
 Every line of code written on a phone keyboard.
