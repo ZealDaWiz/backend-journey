@@ -43,7 +43,6 @@ function dispenseTracker () {
   }
      return dispenseIncrement;
 }
-      let medicineDispensed = dispenseTracker();
 
 const dispenseMedicine = (medicineName, hasPrescription) => {
 const found = medicines.filter((medicine) => {
@@ -64,7 +63,7 @@ const found = medicines.filter((medicine) => {
   else {
          console.log(`Dispensing ${found[0].name}`);
 
-          medicineDispensed();
+         medicineDispensed();
  }
 }
 
@@ -92,3 +91,13 @@ try {
    console.log("Error caught: " + error.message);
 }
 
+function dispenseTracker () {
+     let totalDispensed = 0;
+
+  function dispenseIncrement (add) {
+     totalDispensed = totalDispensed + 1;
+
+       console.log(totalDispensed);
+  }
+     return dispenseIncrement;
+}
