@@ -43,7 +43,7 @@ Freelance-ready by July 2026. Full dev mode by September 2026.
 ### Module 4 — Node.js Fundamentals ← You are here
 | Day | Topic | Status |
 |-----|-------|--------|
-| Day 15 | How Node.js works — modules, require, exports | ⏳ |
+| Day 15 | How Node.js works — modules, require, exports | ✅ |
 | Day 16 | File system — reading and writing files | ⏳ |
 | Day 17 | NPM and third party packages | ⏳ |
 | Day 18 | Events and the event emitter | ⏳ |
