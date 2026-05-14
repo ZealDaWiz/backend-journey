@@ -1,0 +1,7 @@
+Neimeth Patient Records
+Patient 1: Aisha - Malaria
+Patient 2: Emeka - Typhoid
+Patient 3: Fatima - Diabetes
+Patient 4: Chidi - Hypertension
+Patient 5: Ngozi - Asthma
+
