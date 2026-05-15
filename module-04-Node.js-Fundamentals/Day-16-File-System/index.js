@@ -1,5 +1,13 @@
 const fs = require('fs');
 
-const data = fs.readFileSync('patients.txt', 'utf8');
-console.log(data);
+console.log('Before reading file');
 
+fs.readFile('patients.txt', 'utf8', (error, data) => {
+       if (error) {
+         console.log('Error:' , error.message);
+         return;
+       }
+        console.log(data);
+});
+
+console.log('After reading file');

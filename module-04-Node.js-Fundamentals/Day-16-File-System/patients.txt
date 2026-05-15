@@ -5,3 +5,5 @@ Patient 3: Fatima - Diabetes
 Patient 4: Chidi - Hypertension
 Patient 5: Ngozi - Asthma
 
+
+Patient 6: Marie - Fever
