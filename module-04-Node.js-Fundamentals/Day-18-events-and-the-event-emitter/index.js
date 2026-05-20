@@ -12,3 +12,13 @@ emitter.on('lowStock', (batchInfo) => {
 emitter.emit('batchReady', {medicine: 'Amoxicillin', quantity: 500});
 emitter.emit('lowStock', {medicine: 'Paracetamol', quantity: 10});
 
+// ===== ONCE =====
+
+emitter.once('systemStart', () => {
+             console.log('System started. This will only print once.');
+});
+
+emitter.emit('systemStart');
+emitter.emit('systemStart');
+emitter.emit('systemStart');
+
