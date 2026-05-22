@@ -1,0 +1,3 @@
+Neimeth Stream Output
+Processing batch data...
+Stream closed.
