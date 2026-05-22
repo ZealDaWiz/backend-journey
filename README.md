@@ -47,7 +47,7 @@ Freelance-ready by July 2026. Full dev mode by September 2026.
 | Day 16 | File system — reading and writing files | ✅ |
 | Day 17 | NPM and third party packages | ✅ |
 | Day 18 | Events and the event emitter | ✅ |
-| Day 19 | Streams and buffers | ⏳ |
+| Day 19 | Streams and buffers | ✅ |
 | Day 20 | Building a CLI tool with Node.js | ⏳ |
 
 ### Module 5 — Asynchronous JavaScript
