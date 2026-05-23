@@ -1,0 +1,5 @@
+Pyrantrin - Quantity: 5000 - Prescription - yes
+Pancemol - Quantity: 300 - Prescription - yes
+Amlovar - Quantity: 700 - Prescription - no
+Secnidazole - Quantity: 50 - Prescription - yes
+ascorbic acid - Quantity: 300 - Prescription - no
