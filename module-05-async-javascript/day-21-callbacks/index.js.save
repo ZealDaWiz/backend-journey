@@ -1,0 +1,3 @@
+function getMedicine(name, callback) {
+       console.log(`Searching for ${name} ...`);
+       callback(null, {name: 'name', price: 500});
