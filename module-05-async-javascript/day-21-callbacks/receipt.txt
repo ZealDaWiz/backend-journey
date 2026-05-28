@@ -1,0 +1,1 @@
+Receipt: Amlovar - price: 700 - quantity: 1800
