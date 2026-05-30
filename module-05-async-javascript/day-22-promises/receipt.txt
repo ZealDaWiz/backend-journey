@@ -1,0 +1,1 @@
+Receipt: Norduet - Price: NGN 700 - Qty: 850 - Prescription: trueReceipt: Norduet - Price: NGN 700 - Qty: 850 - Prescription: trueReceipt: Amlovar - Price: NGN 400 - Qty: 107 - Prescription: false
