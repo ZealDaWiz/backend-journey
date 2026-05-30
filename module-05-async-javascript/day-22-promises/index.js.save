@@ -1,0 +1,18 @@
+const findMedicine = (name) => {
+    return new Promise((resolve, reject) => {
+      const medicines = [
+            {name: 'Amlovar', price: 700, quantity: 1800},
+            {name: 'Pyrantrin', price: 1200, quantity: 900},
+            {name: 'Unaben', price: 2000, quantity: 20}
+      ];
+      const found = 
+            if (name === 'Amlovar') {
+                resolve({name: name, price: 700});
+            } else {
+                 reject(new Error('Medicine not found'));
+            }
+        });
+};
+findMedicine('Unknown')
+       .then(medicine => console.log('Found:', medicine.name))
+       .catch(error => console.log('Error:', error.message));
