@@ -11,14 +11,23 @@ const findMedicine = (name) => {
      });
 };
 
+const checkStock = (medicine) => {
+   return new Promise((resolve, reject) => {
+       if (medicine.quantity > 50) resolve(medicine);
+       else reject(new Error('Out of Stock'));
+  });
+};
+
 async function processOrder(name) {
     try {
          const medicine = await findMedicine(name);
-              console.log('Found:', medicine.name);
+             console.log('Found:', medicine.name);
+        const checked = await checkStock(medicine);
+             console.log('In stock:', checked.quantity);
     } catch(error) {
            console.log('Error:', error.message);
     }
 }
 
 processOrder('Amlovar');
-processOrder('Unknown');
+processOrder('Unaben');
