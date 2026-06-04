@@ -55,7 +55,7 @@ Freelance-ready by July 2026. Full dev mode by September 2026.
 |-----|-------|--------|
 | Day 21 | Callbacks | ✅ |
 | Day 22 | Promises | ✅ |
-| Day 23 | Async/Await | ⏳ |
+| Day 23 | Async/Await | ✅ |
 | Day 24 | Fetching data from APIs | ⏳ |
 | Day 25 | Error handling in async code | ⏳ |
 | Day 26 | Month 2 project — async CLI app | ⏳ |
@@ -97,6 +97,22 @@ Concepts: Arrow functions, destructuring, spread operator, default parameters, f
 ### 💊 Neimeth Pharmacy CLI System — Month 1 Final Project
 Full command line pharmacy system with medicine inventory, search, dispensing validation and closure-based dispense tracking.
 Concepts: All Month 1 concepts combined — functions, arrays, objects, closures, error handling, ES6, higher order functions.
+
+### 🗂️ Neimeth Module System
+3-file system where medicines.js, report.js and brain.js communicate through require and module.exports.
+Concepts: Modules, exports, require, error handling.
+
+### 📁 Patient Records File System
+Async file system that reads, writes and appends patient records using Node.js fs module.
+Concepts: readFile, writeFile, appendFileSync, utf8, async vs sync.
+
+### 💊 Medicine Inventory CLI
+Full menu-driven CLI with real user input, file system, streams, EventEmitter and recursion combined.
+Concepts: readline, menus, recursion, EventEmitter, streams, NPM packages.
+
+### 🔗 Async Medicine Chain
+Medicine finder, stock checker and receipt generator built three ways — callbacks, Promises and async/await.
+Concepts: Callbacks, error-first pattern, Promises, Promise.all, async/await, try/catch.
 
 ## 📅 Monthly Progress
 | Month | Focus | Status |
