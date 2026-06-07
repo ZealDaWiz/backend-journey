@@ -17,3 +17,24 @@ async function showResult(url) {
 }
 
 showResult("https://api.example.com");
+
+// ===== Using https module =====
+const https = require('https');
+
+https.get({
+  hostname: 'api.github.com',
+  path: '/users/torvalds',
+  headers: {
+    'User-Agent': 'Node.js'
+  }
+}, (response) => {
+  let data = '';
+
+  response.on('data', (chunk) => {
+    data += chunk;
+  });
+
+  response.on('end', () => {
+    console.log(data);
+  });
+});
