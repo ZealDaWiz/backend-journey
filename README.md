@@ -56,7 +56,7 @@ Freelance-ready by July 2026. Full dev mode by September 2026.
 | Day 21 | Callbacks | ✅ |
 | Day 22 | Promises | ✅ |
 | Day 23 | Async/Await | ✅ |
-| Day 24 | Fetching data from APIs | ⏳ |
+| Day 24 | Fetching data from APIs | ✅ |
 | Day 25 | Error handling in async code | ⏳ |
 | Day 26 | Month 2 project — async CLI app | ⏳ |
 
