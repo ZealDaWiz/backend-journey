@@ -35,6 +35,9 @@ https.get({
   });
 
   response.on('end', () => {
-    console.log(data);
+     const obj = JSON.parse(data);
+         console.log('Name:', obj.name);
+         console.log('Location:', obj.location);
+         console.log('Public repos:', obj.public_repos);
   });
 });
