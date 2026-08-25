@@ -6,3 +6,4 @@ Medicine: Amlovar - Price: 40 - Qty: 107 - Prescription: false
 Medicine: Pancemol - Price: 350 - Qty: 2000 - Prescription: false
 Medicine: Pancemol - Price: 350 - Qty: 2000 - Prescription: false
 Medicine: Pancemol - Price: 350 - Qty: 2000 - Prescription: false
+Medicine: Pancemol - Price: 350 - Qty: 2000 - Prescription: false
