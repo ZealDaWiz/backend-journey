@@ -11,3 +11,10 @@ for (let i = 1; i <= 20; i++) {
        console.log(i);
   }
 }
+
+/* This FizzBuzz challengw tests the knowledge of all exercises done in loops for day 3
+ it Fizz when the number is a multiple or divisible by 3 and Buzz when it is for 5.
+ Then log the number if it ia neither.
+ === stands for  Strict Equality Operator
+ && stands for And Operator.
+ % stands for Remainder Operator. */
