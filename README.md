@@ -57,9 +57,19 @@ Freelance-ready by July 2026. Full dev mode by September 2026.
 | Day 22 | Promises | ✅ |
 | Day 23 | Async/Await | ✅ |
 | Day 24 | Fetching data from APIs | ✅ |
-| Day 25 | Error handling in async code | ⏳ |
-| Day 26 | Month 2 project — async CLI app | ⏳ |
+| Day 25 | Error handling in async code | ✅ |
+| Day 26 | Month 2 project — async CLI app | ✅ |
 
+### Module 6 - Express & RESTAPIs
+| Day | Topic | Status |
+|-----|-------|--------|
+| Day 27 | Server | ✅ |
+| Day 28 | Meet Express | ✅ |
+| Day 29 |
+| Day 30
+| Day 31
+| Day 36
+| Day 37
 ## 🏗️ Projects Built So Far
 
 ### 🏥 Hospital Patient System
@@ -118,8 +128,8 @@ Concepts: Callbacks, error-first pattern, Promises, Promise.all, async/await, tr
 | Month | Focus | Status |
 |-------|-------|--------|
 | Month 1 — April 2026 | JavaScript Core | ✅ Complete |
-| Month 2 — May 2026 | Node.js & Async JS | 🔥 In Progress |
-| Month 3 — June 2026 | Express & REST APIs | ⏳ |
+| Month 2 — May 2026 | Node.js & Async JS | ✅ Complete |
+| Month 3 — June 2026 | Express & REST APIs | ⏳ In progress |
 | Month 4 — July 2026 | Databases & Auth | ⏳ |
 | Month 5 — August 2026 | Freelance & Bots | ⏳ |
 | Month 6 — September 2026 | Senior Thinking | ⏳ |
